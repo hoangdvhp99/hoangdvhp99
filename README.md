@@ -1,9 +1,5 @@
 # hoangdvhp99
 
-<a href="#" target="_blank">
-  <img src="svg/background.svg" width="1200" alt="Click to see the source" />
-</a>
-
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
